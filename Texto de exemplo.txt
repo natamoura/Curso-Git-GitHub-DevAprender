@@ -1,1 +1,2 @@
 Um Texto de exemplo para fixar os ensinamentos sobre Git/GitHub
+Uma nova linha para estar tendo uma nova atualização.
